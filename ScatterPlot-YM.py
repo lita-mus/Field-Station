@@ -22,4 +22,4 @@ fig.update_traces(
 fig.update_layout(title='Photosynthetically Active Radiation per 15 mins')
 
 fig.show()
-#fig.write_html("c:/00 RUG/Year 1 Term 2a/IRT/Data/00 Data/PAR/Python/plotly.html")
+fig.write_html("c:/00 RUG/Year 1 Term 2a/IRT/Data/00 Data/PAR/Python/plotly.html")
